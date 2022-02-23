@@ -8,4 +8,4 @@ cobertura <- file_coverage(
     "tests/testthat/test_nothing.R"
   )
 )
-covr::codecov(coverage = cobertura, token = "f1c20322-d682-4c6c-886b-4d3c3802a21e")
+covr::codecov(coverage = cobertura, token = "18928089-edb6-4218-a42d-38d48432b164")
